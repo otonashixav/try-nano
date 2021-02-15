@@ -8,7 +8,7 @@ You need a wallet to use Nano.
 
 | Natrium |  Nault  |
 | :-----: | :-----: |
-| [<img src="/assets/images/google.svg" alt="Google Play Store" width="100%"/><br>Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="/assets/images/nault.svg" alt="Nault Web" width="100%"/><br>Web]()
+| [<img src="/assets/images/google.svg" alt="Google Play Store" width="100%"/><br>Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="/assets/images/nault.svg" alt="Nault Web" width="100%"/><br>Web](https://nault.cc)
 | [<img src="/assets/images/apple.svg" alt="Apple App Store" width="100%"/><br>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="/assets/images/github.svg" alt="Github" width="100%"/><br>Desktop](https://github.com/Nault/Nault/releases)
 
 Create a new wallet with your chosen app, following the instructions given. 
