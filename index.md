@@ -1,37 +1,33 @@
-## Try Nano
+### Nano
 
-You can use the [editor on GitHub](https://github.com/otonashixav/try-nano/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nano is an easy-to-use cryptocurrency made for responsive peer to peer transactions. Anyone can send Nano to anyone else securely and instantly with absolutely no fees. Try it now in less than 5 minutes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wallets
 
-### Markdown
+You need a wallet to use Nano. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Natrium |  Nault  |
+| :-----: | :-----: |
+| [<img src="/assets/img/google.svg" alt="Google Play Store" width="100%"/><br>Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="/assets/img/nault.svg" alt="Nault Web" width="100%"/><br>Web]()
+| [<img src="/assets/img/apple.svg" alt="Apple App Store" width="100%"/><br>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="/assets/img/github.svg" alt="Github" width="100%"/><br>Desktop](https://github.com/Nault/Nault/releases)
 
-```markdown
-Syntax highlighted code block
+Create a new wallet with your chosen app, following the instructions given. 
 
-# Header 1
-## Header 2
-### Header 3
+A single wallet can contain multiple accounts with addresses that start with `nano_` followed by a string of random numbers and letters. A single account will be automatically created for you. 
 
-- Bulleted
-- List
+### Getting Nano for Free
 
-1. Numbered
-2. List
+You need Nano to try Nano. Nano Faucets fueled by donations give out small amounts of Nano for free:
 
-**Bold** and _Italic_ and `Code` text
+* [https://nano-faucet.org/](https://nano-faucet.org/)
+* [https://freenanofaucet.com/](https://www.freenanofaucet.com/)
 
-[Link](url) and ![Image](src)
-```
+Copy the address of your account and enter it at either faucet to receive Nano. You may need to refresh your wallet for the Nano to appear. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Sending Nano for Free
 
-### Jekyll Themes
+Try sending some of your Nano to a friend! You can also create another account in your wallet and send it there.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otonashixav/try-nano/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Find out more
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Find everything related to Nano](https://nanolinks.info/).
