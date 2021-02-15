@@ -1,1 +1,1 @@
-# Coming Soon
+* [English 🇬🇧]({{ site.baseurl }}/)
