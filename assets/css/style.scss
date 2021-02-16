@@ -8,6 +8,20 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
 }
 
+.wallet-logo {
+	@include large {
+		width: 70%;
+	}
+
+	@include medium {
+		width: 80%;
+	}
+
+	@include small {
+		width: 100%;
+	}
+}
+
 .navbar {
 	display: flex;
 }
