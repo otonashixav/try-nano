@@ -25,20 +25,19 @@ table th {
 
 .navbar-spacer {
 	@include large {
-		flex: 5;
+		flex: 4;
 	}
 
 	@include medium {
-		flex: 2;
+		flex: 3;
 	}
 
 	@include small {
-		flex: 1;
+		flex: 2;
 	}
 }
 
 .navbar-lang {
-	flex: 1;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -46,7 +45,7 @@ table th {
 
 .page-header {
 	padding-top: 0;
-	padding-left: 1rem;
-	padding-right: 1rem;
+	padding-left: 5%;
+	padding-right: 5%;
 	padding-bottom: 3rem;
 }
