@@ -14,3 +14,7 @@ Install Ruby and Bundle, then run
 bundle install
 bundle exec jekyll serve
 ```
+
+# Localization
+
+I've made an example at [https://otonashixav.github.io/try-nano/jp](https://otonashixav.github.io/try-nano/jp). To add a translation, create a new folder for that language e.g. `/jp`, copy `index.md` into the folder and translate it, then update `/language/index.md` with a link to the translation. Submit a pull request once you're done editing.
