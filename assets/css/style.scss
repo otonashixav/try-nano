@@ -12,13 +12,14 @@ h1, h2, h3, h4, h5, h6 {
 	display: flex;
 }
 
-table {
+.main-content table {
 	table-layout: fixed;
 	width: 100%;
 }
 
-th, td {
+.main-content table th, .main-content table td {
 	width: 10%;
+	padding: 0.5rem;
 }
 
 .navbar-logo {

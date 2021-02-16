@@ -28,8 +28,8 @@ You need Nano to try Nano. Faucets fueled by donations give out small amounts of
 
 | Faucet | Payout | Balance |
 | :----: | :----: | :-----: |
-| [NANO Faucet](https://nano-faucet.org/) | 0.015% of Balance |<span id="nano-faucet-balance"></span> NANO | 
-| [Free NANO Faucet](https://www.freenanofaucet.com/) | 0.000123 NANO | <span id="free-nano-faucet-balance"></span> NANO |
+| [nano-faucet](https://nano-faucet.org/) | 0.015% of Balance |<span id="nano-faucet-balance"></span> NANO | 
+| [freenanofaucet](https://www.freenanofaucet.com/) | 0.000123 NANO | <span id="free-nano-faucet-balance"></span> NANO |
 
 Copy the address of your account and enter it at either faucet to receive Nano!
 
