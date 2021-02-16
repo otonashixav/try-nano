@@ -12,8 +12,13 @@ h1, h2, h3, h4, h5, h6 {
 	display: flex;
 }
 
-table th {
-	width: 50%;
+table {
+	table-layout: fixed;
+	width: 100%;
+}
+
+th, td {
+	width: 10%;
 }
 
 .navbar-logo {

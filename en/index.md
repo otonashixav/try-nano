@@ -15,8 +15,8 @@ You need a wallet to use Nano. Here are some simple ones.
 
 | Natrium |  Nault  |
 | :-----: | :-----: |
-| [<img src="{{ '/assets/images/google.svg' | relative_url }}" alt="Google Play Store" width="100%"/><br>Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="{{ '/assets/images/nault.svg' | relative_url }}" alt="Nault Web" width="100%"/><br>Web](https://nault.cc)
-| [<img src="{{ '/assets/images/apple.svg' | relative_url }}" alt="Apple App Store" width="100%"/><br>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="{{ '/assets/images/github.svg' | relative_url }}" alt="Github" width="100%"/><br>Desktop](https://github.com/Nault/Nault/releases)
+| [<img src="{{ '/assets/images/google.svg' | relative_url }}" alt="Google Play Store" width="100%"/><br/>Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="{{ '/assets/images/nault.svg' | relative_url }}" alt="Nault Web" width="100%"/><br/>Web](https://nault.cc)
+| [<img src="{{ '/assets/images/apple.svg' | relative_url }}" alt="Apple App Store" width="100%"/><br/>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="{{ '/assets/images/github.svg' | relative_url }}" alt="Github" width="100%"/><br/>Desktop](https://github.com/Nault/Nault/releases)
 
 Create a new wallet with your app, following the instructions given. 
 
@@ -26,10 +26,10 @@ A single wallet can contain multiple accounts with addresses that start with `na
 
 You need Nano to try Nano. Faucets fueled by donations give out small amounts of Nano for free:
 
-| Faucet | Balance |
-| :----: | :-----: |
-| [https://nano-faucet.org/](https://nano-faucet.org/) | <span id="nano-faucet-balance"></span> NANO |
-| [https://freenanofaucet.com/](https://www.freenanofaucet.com/) | <span id="free-nano-faucet-balance"></span> NANO |
+| Faucet | Payout | Balance |
+| :----: | :----: | :-----: |
+| [NANO Faucet](https://nano-faucet.org/) | 0.015% of Balance |<span id="nano-faucet-balance"></span> NANO | 
+| [Free NANO Faucet](https://www.freenanofaucet.com/) | 0.000123 NANO | <span id="free-nano-faucet-balance"></span> NANO |
 
 Copy the address of your account and enter it at either faucet to receive Nano!
 
