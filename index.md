@@ -11,7 +11,7 @@ Nano is peer to peer cash. Feeless and faster than a credit card, try it now in 
 
 ### Wallets
 
-You need a wallet to use Nano. 
+You need a wallet to use Nano. Here are some simple ones.
 
 | Natrium |  Nault  |
 | :-----: | :-----: |
