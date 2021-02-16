@@ -1,5 +1,34 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
+	<script>
+		function updateBalance() {
+			const rawToNanoRatio = 10e-31;
+			const faucets = [
+				{
+					id: document.getElementById("nano-faucet-balance"), 
+					address: "nano_34prihdxwz3u4ps8qjnn14p7ujyewkoxkwyxm3u665it8rg5rdqw84qrypzk"
+				}, 
+				{
+					id: document.getElementById("free-nano-faucet-balance"), 
+					address: "nano_3kwppxjcggzs65fjh771ch6dbuic3xthsn5wsg6i5537jacw7m493ra8574x"
+				}
+			];
+			faucets.forEach((faucet) => {
+				fetch(`https://proxy.nanos.cc/proxy/?action=account_balance&account=${faucet.address}`)
+					.then((response) => {
+						return response.json();
+					})
+					.then((jsonResponse) => {
+						faucet.id.innerHTML = String((jsonResponse.balance * rawToNanoRatio).toFixed(6));
+					})
+					.catch((error) => {
+						console.log(error);
+						faucet.id.innerHTML = "Error";
+					});
+				}
+			);
+		}
+	</script>
 	<head>
 		<meta charset="UTF-8">
 		<title>{{ page.title }}</title>
@@ -30,7 +59,7 @@
 		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>
-	<body>
+	<body onload="updateBalance()">
 		<header class="page-header" role="banner">
 			<nav>
 				<div class="navbar">
