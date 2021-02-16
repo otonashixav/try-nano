@@ -2,7 +2,7 @@
 site_name: "トライナノ"
 title: "トライナノ | いえい"
 description: "翻訳できるほどの日本語力がないからサイトを試すため勝手に書きました。日本人の翻訳頼みます。Looking for translators!"
-footer: "このサイトは[Github Pages](https://pages.github.com)により立てました。 [nano.org](https://nano.org)に一線関係ありません。"
+footer: "このサイトは[Github Pages](https://pages.github.com)により立てました。 [nano.org](https://nano.org)に一切関係ありません。"
 ---
 
 翻訳できるほどの日本語力がないからサイトを試すため勝手に書きました。日本人の翻訳頼みます。Looking for translators!
