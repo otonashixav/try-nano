@@ -17,8 +17,8 @@ Nanoを試すにはウォレットアプリが必要です。
 
 | Natrium |  Nault  |
 | :-----: | :-----: |
-| [<img src="{{ '/assets/images/google.svg' | relative_url }}" alt="Google Play Store" width="100%"/><br>アンドロイド](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="{{ '/assets/images/nault.svg' | relative_url }}" alt="Nault Web" width="100%"/><br>ウェブサイト](https://nault.cc)
-| [<img src="{{ '/assets/images/apple.svg' | relative_url }}" alt="Apple App Store" width="100%"/><br>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="{{ '/assets/images/github.svg' | relative_url }}" alt="Github" width="100%"/><br>パソコン](https://github.com/Nault/Nault/releases)
+| [<img src="{{ '/assets/images/google.svg' | relative_url }}" alt="Google Play Store" width="100%"/><br/>アンドロイド](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="{{ '/assets/images/nault.svg' | relative_url }}" alt="Nault Web" width="100%"/><br/>ウェブサイト](https://nault.cc)
+| [<img src="{{ '/assets/images/apple.svg' | relative_url }}" alt="Apple App Store" width="100%"/><br/>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="{{ '/assets/images/github.svg' | relative_url }}" alt="Github" width="100%"/><br/>パソコン](https://github.com/Nault/Nault/releases)
 
 アプリを開いて新しいウォレットを作ります。
 
@@ -26,10 +26,12 @@ Nanoを試すにはウォレットアプリが必要です。
 
 ### Nanoを手に入れる
 
-Nanoを試すにはNanoも必要です. フォーセットから無料でもらえるから使いましょう：
+Nanoを試すにはNanoも必要です. フォセットから無料でもらえるから使いましょう：
 
-* [https://nano-faucet.org/](https://nano-faucet.org/)
-* [https://freenanofaucet.com/](https://www.freenanofaucet.com/)
+| フォセット | もらえるNano | 残額 |
+| :----: | :----------: | :-----: |
+| [nano-faucet](https://nano-faucet.org/) | 残額の0.015% |<span id="nano-faucet-balance"></span> NANO | 
+| [freenanofaucet](https://www.freenanofaucet.com/) | 0.000123 NANO | <span id="free-nano-faucet-balance"></span> NANO |
 
 アドレスをコピペして入れることでNanoが届いてきます。
 
