@@ -17,7 +17,7 @@ Nanoを試すにはウォレットアプリが必要です。
 
 | Natrium |  Nault  |
 | :-----: | :-----: |
-| [<img src="{{ '/assets/images/google.svg' | relative_url }}" alt="Google Play Store" width="100%"/><br>Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="{{ '/assets/images/nault.svg' | relative_url }}" alt="Nault Web" width="100%"/><br>ウェブサイト](https://nault.cc)
+| [<img src="{{ '/assets/images/google.svg' | relative_url }}" alt="Google Play Store" width="100%"/><br>アンドロイド](https://play.google.com/store/apps/details?id=co.banano.natriumwallet) | [<img src="{{ '/assets/images/nault.svg' | relative_url }}" alt="Nault Web" width="100%"/><br>ウェブサイト](https://nault.cc)
 | [<img src="{{ '/assets/images/apple.svg' | relative_url }}" alt="Apple App Store" width="100%"/><br>iPhone](https://apps.apple.com/us/app/natrium/id1451425707) | [<img src="{{ '/assets/images/github.svg' | relative_url }}" alt="Github" width="100%"/><br>パソコン](https://github.com/Nault/Nault/releases)
 
 アプリを開いて新しいウォレットを作ります。
@@ -39,5 +39,5 @@ Nanoを試すにはNanoも必要です. フォーセットから無料でもら�
 
 ### もっと見る
 
-* [Official Website](https://nano.org/)
-* [Everything related to Nano](https://nanolinks.info/)
+* [公式サイト](https://nano.org/)
+* [Nanoに対して全て](https://nanolinks.info/)
