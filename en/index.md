@@ -26,8 +26,8 @@ A single wallet can contain multiple accounts with addresses that start with `na
 
 You need Nano to try Nano. Faucets fueled by donations give out small amounts of Nano for free:
 
-| Faucet | Payout | Balance |
-| :----: | :----: | :-----: |
+| Faucet | Amount Given | Balance |
+| :----: | :----------: | :-----: |
 | [nano-faucet](https://nano-faucet.org/) | 0.015% of Balance |<span id="nano-faucet-balance"></span> NANO | 
 | [freenanofaucet](https://www.freenanofaucet.com/) | 0.000123 NANO | <span id="free-nano-faucet-balance"></span> NANO |
 
