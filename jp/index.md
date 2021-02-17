@@ -1,6 +1,6 @@
 ---
 site_name: "Try Nano"
-title: "Nano・安全・エコ・速い・無料"
+title: "Nano・速い・無料・かんたん"
 description: "安全で無料なクリプトカレンシー。ビットコインに比べて600万の1の電力量。クレジットカードの速さ。"
 footer: "このサイトは[Github Pages](https://pages.github.com)により立てました。 [nano.org](https://nano.org)に一切関係ありません。"
 ---
