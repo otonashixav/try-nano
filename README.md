@@ -19,4 +19,4 @@ bundle exec jekyll serve
 
 ## Localization
 
-I've made an example at [https://try-nano.github.io//jp](https://try-nano.github.io//jp). To add a translation, create a new folder for that language e.g. `/jp`, copy `/en/index.md` into the folder and translate it, then update `/lang/index.md` with a link to the translation. Submit a pull request once you're done editing.
+I've made an example at [https://try-nano.github.io/jp](https://try-nano.github.io/jp). To add a translation, create a new folder for that language e.g. `/jp`, copy `/en/index.md` into the folder and translate it, then update `/lang/index.md` with a link to the translation. Submit a pull request once you're done editing.
