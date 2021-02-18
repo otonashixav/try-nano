@@ -26,8 +26,8 @@ A single wallet can contain multiple accounts with addresses that start with `na
 
 You need Nano to try Nano. Get some from a faucet that gives out small amounts of Nano for free:
 
-* [nano-faucet](https://nano-faucet.org/)
-* [freenanofaucet](https://www.freenanofaucet.com/)
+* [nano-faucet.org](https://nano-faucet.org/)
+* [freenanofaucet.com](https://www.freenanofaucet.com/)
 
 Copy the address of your account and enter it at either faucet to receive Nano!
 

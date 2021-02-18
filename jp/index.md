@@ -28,8 +28,8 @@ Nanoを試すにはウォレットアプリが必要です。
 
 Nanoを試すにはNanoも必要です. フォセットから無料でNanoが少しもらえます：
 
-* [nano-faucet](https://nano-faucet.org/)
-* [freenanofaucet](https://www.freenanofaucet.com/)
+* [nano-faucet.org](https://nano-faucet.org/)
+* [freenanofaucet.com](https://www.freenanofaucet.com/)
 
 アドレスをコピペして入れることでNanoが届いてきます。
 
