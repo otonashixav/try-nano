@@ -24,12 +24,12 @@ A single wallet can contain multiple accounts with addresses that start with `na
 
 ### Get Nano
 
-You need Nano to try Nano. Here are some faucets fueled by donations that give out small amounts of Nano for free:
+Here are some faucets fueled by donations that give out small amounts of Nano for free:
 
 * [nano-faucet.org](https://nano-faucet.org/)
 * [freenanofaucet.com](https://www.freenanofaucet.com/)
 
-Click on `Receive`, copy the address of your account and enter it at either faucet to receive Nano!
+In your wallet, click on Receive, then copy your address and enter it at either faucet to receive Nano!
 
 ### Send Nano
 
