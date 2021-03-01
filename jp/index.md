@@ -40,4 +40,5 @@ Nanoを試すにはウォレットアプリが必要です。
 ### もっと見る
 
 * [公式サイト](https://nano.org/)
+* [WeNano - location-based faucets](https://wenano.net)
 * [Nanoに対して全て](https://nanolinks.info/)
