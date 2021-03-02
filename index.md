@@ -1,6 +1,6 @@
 ---
 layout: redirect
-redirect_to: /en---
+redirect_to: /en
 site_name: "Try Nano"
 title: "Try Nano | Fast, Feeless, Simple."
 description: "Nano is cryptographically secured borderless digital cash. Experience Nano first-hand in under 5 minutes."
