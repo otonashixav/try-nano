@@ -37,7 +37,7 @@ Try sending some of your Nano to a friend! You can also create another account a
 
 ### Find out more
 
-* [Compare payment methods]({{ '/en/compare' | relative_url }})
+* [Compare Nano with other payment methods]({{ '/en/compare' | relative_url }})
 * [Official website](https://nano.org/)
 * [WeNano - location-based faucets](https://wenano.net)
 * [Everything related to Nano](https://nanolinks.info/)
