@@ -9,7 +9,7 @@ footer: "このサイトは[Github Pages](https://pages.github.com)により立�
 
 ### Nano
 
-Nanoは暗号手法で安全されている無国境なディジタル化した現金。５分内に使ってみる。[<u>なぜ？（英語）</u>]({{ '/en/compare' | relative_url }})
+Nanoは暗号手法で安全されている無国境なディジタル化した現金。５分内に使ってみる。
 
 ### ウオレット
 
